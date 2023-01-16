@@ -7,4 +7,4 @@
 * При помощи media queries создал правила для различных размеров экрана.
 * Лучше узнал про командную работу в Git.
 
-
+Посмотреть проект: https://misterildar.github.io/russian-travel/index.html
