@@ -5,14 +5,26 @@
   max-width: calc(1280px - 2 * 48px);
   width: 100%;
   padding: 92px 48px 24px;
-  box-sizing: border-box;
   margin: 0 auto;
   flex-wrap: wrap;
 }
 
+@media screen and (max-width: 1179px) {
+  .footer {
+    max-width: calc(100% - 2 * 48px);
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .footer {
+    padding: 88px 24px 24px;
+    max-width: calc(100% - 2 * 24px);
+  }
+}
+
 @media screen and (max-width: 767px) {
   .footer {
-    padding: 64px 118px 48px 16px;
+    padding: 64px 0 48px 16px;
     flex-direction: column;
   }
 }

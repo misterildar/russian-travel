@@ -1,9 +1,12 @@
 .place__website-url-heading {
-  font-family: 'Inter', 'Arial', sans-serif;
+  font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
   line-height: 12px;
   letter-spacing: 2px;
   color: #aaa;
+  margin: 0;
+  padding-bottom: 12px;
+  text-transform: uppercase;
 }

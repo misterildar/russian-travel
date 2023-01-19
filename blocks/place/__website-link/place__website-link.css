@@ -1,11 +1,12 @@
 .place__website-link {
-  font-family: 'Inter', 'Arial', sans-serif;
+  font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
   text-decoration-line: underline;
   color: #fff;
+  margin: 0;
 }
 
 .place__website-link:hover {
